@@ -31,14 +31,14 @@ Link:
 
 | 이미지<br> | 이다솔 |
 | --- | --- |
-| [@dasol729](https://github.com/dasol729) | [@jpg723](https://github.com/jpg723) |
+| [@jpg723](https://github.com/jpg723) | [@dasol729](https://github.com/dasol729) |
 | 2023.09.13 ~ | 2023.09.13 ~ |
 
 ### Backend
 
 | 이지영<br> | 이혜연 |
 | --- | --- |
-| [@lakedata](https://github.com/lakedata)    | [@hyeyeonnnnn](https://github.com/hyeyeonnnnn)   | 
+| [@lakedata](https://github.com/lakedata) | [@hyeyeonnnnn](https://github.com/hyeyeonnnnn)   | 
 | 2023.09.13 ~ | 2023.09.13 ~ |
 
 ## 🔨 Tech stack
