@@ -32,13 +32,14 @@ Link:
 | 이미지<br> | 이다솔 |
 | --- | --- |
 | [@jpg723](https://github.com/jpg723) | [@dasol729](https://github.com/dasol729) |
+| Since September 13, 2023 | Since September 13, 2023 |
 
 ### Backend
 
 | 이지영<br> | 이혜연 |
 | --- | --- |
 | [@lakedata](https://github.com/lakedata) | [@hyeyeonnnnn](https://github.com/hyeyeonnnnn)   | 
-| 2023.09.13 ~ | 2023.09.13 ~ |
+| Since September 13, 2023 | Since September 13, 2023 |
 
 ## 🔨 Tech stack
 - 개발 언어 : Java (11)
