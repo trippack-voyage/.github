@@ -3,7 +3,7 @@ Voyage는 나의 여행 짐 도우미 웹 서비스입니다. 사용자들은 �
 
 ## About this project
 <div align=center>
-<img width="404" alt="스크린샷 2023-10-21 오후 1 15 23" src="https://github.com/trippack-voyage/.github/assets/94455716/9fc20a36-60c3-41f8-b5bb-33d8d6773648">
+<img width="346" alt="image" src="https://github.com/trippack-voyage/.github/assets/94455716/be02c54b-d4e4-47e4-a725-e4a6e2c29161">
 
 </div>
 
