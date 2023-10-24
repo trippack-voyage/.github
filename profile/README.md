@@ -14,7 +14,7 @@ Link:
 아래는 예시 페이지 입니다.
 
 ## 🚀 Features
-![voyage](https://github.com/trippack-voyage/.github/assets/94455716/75816301-7bbe-48bc-9306-41f90a2af25a)
+![voyage](https://github.com/trippack-voyage/.github/assets/94455716/c54ba2cf-4ea3-4f13-916e-0f6dc50b62d8)
 
 <!--
 
